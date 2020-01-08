@@ -12,5 +12,6 @@
     <string name="menu_slideshow">My Basket</string>
     <string name="menu_tools">Order history</string>
     <string name="menu_share">Notification</string>
+    <string name="menu_more">More</string>
 
 </resources>
